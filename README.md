@@ -8,7 +8,7 @@
 
 In order to meet theme requirements, I decided to develop a wellness app that enables users to set habits they want to build, keep track of them & earn badges along the way. The project aims to use Gamification techniques in order to cultivate and maintain motivation by providing badges. The habits that are provided are divided into categories such as Environment, Learning, Health, Fitness and Spirituality. The Habits app not only focuses on inner growth, but on outer growth as well, especially in relation to concerns such as Climate Change, by encouraging users to pursue habits such as: Recycle paper, Recycle glass, Use public transport.
 
-## [Presentation] (https://www.canva.com/design/DAFe5s7nvkQ/8-o_j1ZZHzKOuABO4Mj5Cg/edit?utm_content=DAFe5s7nvkQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+## [Presentation](https://www.canva.com/design/DAFe5s7nvkQ/8-o_j1ZZHzKOuABO4Mj5Cg/edit?utm_content=DAFe5s7nvkQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ## Requirements
 
